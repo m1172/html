@@ -1,0 +1,9 @@
+.container{
+    display: flex;
+    width: fit-content;
+  
+}
+/* 
+.sidebar , .body{
+    border: 2px solid red;
+} */
